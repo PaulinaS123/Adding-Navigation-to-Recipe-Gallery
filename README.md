@@ -138,7 +138,7 @@ recipe-router-app/
 ## Clone the Repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/PaulinaS123/Adding-Navigation-to-Recipe-Gallery.git
 ```
 
 ---
