@@ -16,8 +16,6 @@ This application allows users to:
 - Use a persistent navigation bar across all pages
 - Handle invalid recipe routes gracefully
 
-The application was built as part of a React Router assignment focused on client-side navigation and dynamic routing.
-
 ---
 
 # Features
